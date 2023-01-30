@@ -1,8 +1,10 @@
 ![ChiFi Degens](./images/banner.png)
 
-![38%](https://progress-bar.dev/38?title=Artwork)
-![50%](https://progress-bar.dev/50?title=Collabs)
-![0%](https://progress-bar.dev/0?title=CAT)
+<p align="center">
+    <img src="https://progress-bar.dev/38?title=Artwork"/>
+    <img src="https://progress-bar.dev/50?title=Collabs"/>
+    <img src="https://progress-bar.dev/0?title=CAT"/>
+</p>
 
 # About
 **ChiFi Degens** is an upcoming generative PFP NFT project on Chia, created by SynthwaveAndy.
