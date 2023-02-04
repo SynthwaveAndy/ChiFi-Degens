@@ -3,8 +3,8 @@
 
 ### Progress
 <p align="center" fontsize="4px">
-    <img src="https://progress-bar.dev/75?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/41?title=Artwork"/>
+    <img src="https://progress-bar.dev/76?title=Collab Reachout"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/46?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
@@ -19,9 +19,9 @@
 Let's face it, we're all a bunch of ChiFi Degen's at heart,
 
 Some of us are `Church of Chia` Degens, who worship at the house of Gene.<br/>
-Some are `Tactical` degens, waiting for the perfect opportunity to win an event or scoop a rare.<br/>
-Maybe you're a `Stealth Degen`, and don't like showing off your Degen ways in public.<br/>
-Or just maybe, you're a `Brazen Degen` with your gold chains, yacht and golden grills!<br/>
+Some are `Tactical` Degens, waiting for the perfect opportunity to win an event or scoop a rare.<br/>
+Maybe you're a `Stealth` Degens, and don't like showing off your Degen ways in public.<br/>
+Or just maybe, you're a `Brazen` Degen with your gold chains, yacht and golden grills!<br/>
 
 No matter what kind of Degen you are, there is a ChiFi Degen for you!
 
@@ -29,6 +29,7 @@ No matter what kind of Degen you are, there is a ChiFi Degen for you!
  - Collection of **2000**.
  - Minting and Dropping in Batches of 400 every 3 Days from launch date [TBA]
  - Over 90 Unique Traits over 9 layers (Could end up at 100 tbh)
+ - *Rarity Rankings* will be unknowable until all 2000 have dropped. 
 
 ### CAT Tokens, CATokenomics, Pricing
  - **CAT Token Airdrop** to all **Proof of Synth and Time supporters (1 per NFT owned)** and collaborators (2 ea.). [Name of CAT TBA]
@@ -36,15 +37,15 @@ No matter what kind of Degen you are, there is a ChiFi Degen for you!
  - **Supply: Approx 250-300.** Supply will be confirmed on airdrop day.
  - ~12hrs **Early Access** to all Batch Drops for CAT Holders!
  - During that time, Degens will only be purchasable with **1 CAT + 0.02 XCH** (~$1 USD)
- - After the 12 Hours, the Batches will be open for non-CAT holders for **0.25 XCH standard price**
+ - After the 12 Hours, the Batches will be open for non-CAT holders for **0.30 XCH standard price**
  - There will be no "price drops" like there has been with Proof of Synth and Time.
  - I will create a Buy offer for the CAT Tokens on Dexie, this offer will be unobtanium (i.e., 50 CAT for 1 xch)
  - The buy offer will simply allow people to find the token on the Dexie List, in case anyone wants to sell / trade their CAT's
 
 ### Collaborations
-The Degens will feature traits from a range of collaborators, as well as community themes and memes! These traits will reference the collaborators work, but will be hand drawn by SynthwaveAndy
+The Degen's will feature traits from a range of collaborators, as well as community themes and memes! These traits will reference the collaborators work, but will be hand drawn by SynthwaveAndy.
 
-I'm still reaching out to collaborators, 
+I'm still reaching out to collaborators,
 The following collaborators are keen to have traits reference their project:
 - [Daryl](https://twitter.com/Smith_Cypher) (Who literally inspired this entire project!)
 - [ChiaSlimes](https://twitter.com/chia_slime)
@@ -55,6 +56,7 @@ The following collaborators are keen to have traits reference their project:
 - [HexPals](https://twitter.com/HexPalsNFT)
 - [Duck Friends](https://twitter.com/CDFNFT)
 - [Codephunk](https://twitter.com/codephunk) ([Scrawl Guys](https://twitter.com/ScrawlGuys))
+- [ThiccTickers](https://twitter.com/ThiccTickers) (Church of Chia Prayer)
 - ...
 - More to come!
 - [Proof Of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)
