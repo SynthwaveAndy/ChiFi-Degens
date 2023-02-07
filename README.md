@@ -4,7 +4,7 @@
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/76?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/46?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/54?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
@@ -70,7 +70,7 @@ I will release a **Roadmap** in due time with set key dates, Degen's is still in
 The best place to check on the progress is at the top of this page in the [Progress](#Progress)
 
 ### Final Word
-Currently, if i wanted to, i could generate `648,121,824` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
+Currently, if i wanted to, i could generate `914,457,600` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
 **Proof of Synth and Time** has a lot of traits, which are essentially the same but with a different Hue (color)
 **ChiFi Degen's** traits will almost all be completely unique, with the exception of some of the Eyes, which will share Shape, with differing colors.
 
