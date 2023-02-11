@@ -4,7 +4,7 @@
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/90?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/69?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/73?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
@@ -54,7 +54,6 @@ The following collaborators are keen to have traits reference their project:
 - [xchbob](https://twitter.com/xchbob) ($BigD)
 - [QuirkyGiraffes](https://twitter.com/Quirky_Giraffes)
 - [HexPals](https://twitter.com/HexPalsNFT)
-- [Duck Friends](https://twitter.com/CDFNFT)
 - [Codephunk](https://twitter.com/codephunk) ([Scrawl Guys](https://twitter.com/ScrawlGuys))
 - [ThiccTickers](https://twitter.com/ThiccTickers) (Church of Chia Prayer)
 - [Steve Stepp](https://twitter.com/steppsr)
