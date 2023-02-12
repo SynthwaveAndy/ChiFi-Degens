@@ -3,8 +3,8 @@
 
 ### Progress
 <p align="center" fontsize="4px">
-    <img src="https://progress-bar.dev/90?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/73?title=Artwork"/>
+    <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/75?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
