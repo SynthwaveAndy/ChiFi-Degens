@@ -4,7 +4,7 @@
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/75?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/83?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
@@ -28,7 +28,7 @@ No matter what kind of Degen you are, there is a ChiFi Degen for you!
 ### NFTokenomics:
  - Collection of **2000**.
  - Minting and Dropping in Batches of 400 every 3 Days from launch date [TBA]
- - Over 90 Unique Traits over 9 layers (Could end up at 100 tbh)
+ - ~100 Unique Traits over 9 layers
  - *Rarity Rankings* will be unknowable until all 2000 have dropped. 
 
 ### CAT Tokens, CATokenomics, Pricing
@@ -57,6 +57,7 @@ The following collaborators are keen to have traits reference their project:
 - [Codephunk](https://twitter.com/codephunk) ([Scrawl Guys](https://twitter.com/ScrawlGuys))
 - [ThiccTickers](https://twitter.com/ThiccTickers) (Church of Chia Prayer)
 - [Steve Stepp](https://twitter.com/steppsr)
+- [C00kies](https://twitter.com/acceptc00kies)
 - ...
 - More to come!
 - [Proof Of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)
@@ -70,7 +71,7 @@ I will release a **Roadmap** in due time with set key dates, Degen's is still in
 The best place to check on the progress is at the top of this page in the [Progress](#Progress)
 
 ### Final Word
-Currently, if i wanted to, i could generate `1,210,809,600` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
+Currently, if i wanted to, i could generate `1,660,538,880` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
 **Proof of Synth and Time** has a lot of traits, which are essentially the same but with a different Hue (color)
 **ChiFi Degen's** traits will almost all be completely unique, with the exception of some of the Eyes, which will share Shape, with differing colors.
 
