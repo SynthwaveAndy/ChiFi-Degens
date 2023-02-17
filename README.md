@@ -7,10 +7,11 @@
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/86?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/88?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/5?title=Coding"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/50?title=CAT"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/> 
-    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/> 
+    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/>
     <br/>
     <font size="-2">(Updated Daily) </br>Last Updated 17th Feb 2023</font>
 </p>
@@ -100,7 +101,7 @@ I will release a **Roadmap** soon with set key dates.
 The best place to check on the progress is at the top of this page in the [Progress](#Progress) section.
 
 ### Final Word
-Currently, if i wanted to, i could generate `1,617,408,000` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
+Currently, if i wanted to, i could generate `1,857,945,600` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
 **Proof of Synth and Time** has a lot of traits, which are essentially the same but with a different Hue (color)
 **ChiFi Degen's** traits will almost all be completely unique, with the exception of some of the Eyes and Hair Colors, which will share Shape, with differing colors.
 
