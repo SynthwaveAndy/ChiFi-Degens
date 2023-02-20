@@ -7,7 +7,7 @@
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/88?title=Artwork"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/95?title=Artwork"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/5?title=Coding"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/50?title=CAT"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/>
