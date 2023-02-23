@@ -8,8 +8,8 @@
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/96?title=Artwork"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/20?title=Coding"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/50?title=CAT"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/40?title=Generation"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/55?title=CAT Dev"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/>
     <br/>
