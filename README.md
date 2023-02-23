@@ -58,6 +58,8 @@ $DEGEN is a Single-Issuance Chia Asset Token (CAT) which can be used along with 
 #### **$DEGEN Airdrop**
 On `TUE 15:00 GMT Feb 28th 2023` a snapshot will be taken of all DID's containing [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at) or [SyntHexizer](https://mintgarden.io/collections/synthexizers-col1xmqhvls8du6zxq7ccm7jpq4xx2ds8andnjr4gfgk35w2nj23hkaqlza2p6?tab=items) NFTs. One $DEGEN will then be airdropped per NFT.
 
+This snapshot will be taken using the [Proof of Related NFT Ownership DID Snapshot Tool](https://github.com/SynthwaveAndy/P.O.R.N.O-DID-Snapshot)
+
  #### **$DEGEN Bounty Program**
 After the Airdrop, buy offers for all [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at) NFTs will be uploaded to dexie.space. The offers will be 1 $DEGEN in return for each POSAT. Each POSAT traded in, will be burned.
 
