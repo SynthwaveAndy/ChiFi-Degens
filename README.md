@@ -1,19 +1,19 @@
 
 # THE DEGENPAPER
 <div align="center">
-    <img src="./images/banner.png" width="700" height="340"/>
+    <img src="./images/banner_medium.png" style="width:100%;height:auto;"/>
 </div>
 
 ### Progress
 <p align="center" fontsize="4px">
     <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/100?title=Artwork"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/50?title=Generation"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/100?title=Generation"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/55?title=CAT Dev"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/>
     <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/>
     <br/>
-    <font size="-2">(Updated Daily) </br>Last Updated 26th Feb 2023</font>
+    <font size="-2">(Updated Daily) </br>Last Updated 28th Feb 2023</font>
 </p>
 
 
@@ -23,12 +23,11 @@
 Let's face it, we're all a bunch of ChiFi Degen's at heart,
 
 Some of us are `Devoted` Degens, who worship at the house of Gene.<br/>
-Some are `Tactical` Degens, waiting for the perfect opportunity to win an event or scoop a rare.<br/>
-Maybe you're a `Stealth` Degens, and don't like showing off your Degen ways in public.<br/>
-Perhaps a `Hung` Degen with your $BigD Necklace <br/>
+Maybe you're a `Stealth` Degen, and don't like showing off your Degen ways in public.<br/>
+Perhaps a `Well Endowed` Degen with your $BigD Necklace <br/>
 Or just maybe, you're a `Brazen` Degen with your gold chains, yacht and golden grills!<br/>
 
-No matter what kind of Degen you are, there is a ChiFi Degen for you!
+No matter what kind of Degen you are, there's a ChiFi Degen for you!
 
 ### NFTokenomics:
  - Collection of **2000**.
@@ -90,8 +89,7 @@ The following collaborators are keen to have traits reference their project:
 - [ThiccTickers](https://twitter.com/ThiccTickers) (Church of Chia Prayer)
 - [Steve Stepp](https://twitter.com/steppsr)
 - [C00kies](https://twitter.com/acceptc00kies)
-- ...
-- More to come!
+
 - [Proof Of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)
 
 >*Collaborators will have the final sign-off on the trait(s) referencing their work. They reserve the right to refuse a trait design or pull their support of the project prior to launch. Further, the collaborators twitter handle will be included in the metadata of the NFT where the reference to their project appears. Thank you for supporting ChiFi Degen's :)*
