@@ -1,24 +1,11 @@
 
 # THE DEGENPAPER
 <div align="center">
-    <img src="./images/banner_medium.png" style="width:100%;height:auto;"/>
+    <img src="./Readme Assets/banner_medium.png" style="width:100%;height:auto;"/>
 </div>
 
-### Progress
-<p align="center" fontsize="4px">
-    <img src="https://progress-bar.dev/100?title=Collab Reachout"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/100?title=Artwork"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/100?title=Generation"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/55?title=CAT Dev"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Mint"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/0?title=Offered"/>
-    <br/>
-    <font size="-2">(Updated Daily) </br>Last Updated 28th Feb 2023</font>
-</p>
-
-
 ### About
-**ChiFi Degen's** is an upcoming generative PFP NFT project on Chia, created by [SynthwaveAndy](https://twitter.com/ProofOfSynthNFT).
+**ChiFi Degen's** is a generative PFP NFT project on Chia, created by [SynthwaveAndy](https://twitter.com/ProofOfSynthNFT).
 
 Let's face it, we're all a bunch of ChiFi Degen's at heart,
 
@@ -29,12 +16,23 @@ Or just maybe, you're a `Brazen` Degen with your gold chains, yacht and golden g
 
 No matter what kind of Degen you are, there's a ChiFi Degen for you!
 
+<div align="center">
+    <img src="./Readme Assets/RoadMap.png" style="width:100%;height:auto;"/>
+
+<p align="center" fontsize="4px">
+    <img style="padding-left:20px" src="https://progress-bar.dev/20?title=Mint"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/20?title=Offered"/>
+    <br/>
+    <font size="-2">(Updated Often) </br>Last Updated 6th March 2023</font>
+</p>
+</div>
+
 ### NFTokenomics:
  - Collection of **2000**.
  - Minting and Dropping in Batches of 400 every 3 Days from launch date `[TBA]`
- - 100 Unique Traits over 9 layers
+ - Over 100 Unique Traits over 9 layers
  - **Rarity Rankings** will be unknowable until all 2000 have dropped.
- - **Batches** will be randomly assembled, with equal weighting of OpenRarity score.
+
 
 ### $DEGENomics
 
@@ -43,40 +41,40 @@ Asset ID: `320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501`
  Links: [TAIL Database](https://www.taildatabase.com/tail/320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501)
 | [SPACESCAN](https://www.spacescan.io/cat2/320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501)
 
-$DEGEN is a Single-Issuance Chia Asset Token (CAT) which can be used along with 0.02 XCH to redeem any ChiFi Degen on dexie for initial offer. ChiFi Degens will only be purchasable using this method for the first 12 hours after each batch drop, as such, it acts an Early Access Token. `Supply = 500`
-
+$DEGEN is a Single-Issuance Chia Asset Token (CAT) which can be used along with 0.02 XCH to redeem any ChiFi Degen on dexie.space for initial offer. ChiFi Degens will only be purchasable using this method for the first 12 hours after each batch drop, as such, it acts an Early Access Token. `Supply = 500`
 
 <div align="center" justify-content="center">
-    <img src="./images/$DEGEN.png"  width="100" height="100">
-    <img src="./images/$DEGEN.png"  width="130" height="130">
-    <img src="./images/$DEGEN.png"  width="100" height="100">
+    <img src="./Collection Assets/$DEGEN.png"  width="100" height="100">
+    <img src="./Collection Assets/$DEGEN.png"  width="130" height="130">
+    <img src="./Collection Assets/$DEGEN.png"  width="100" height="100">
     <p><font size="-2">~ Ignoti Vel Cogniti, Degeneres Sumus et Multi Sumus ~</font></p>
-    
 </div>
 
-#### **$DEGEN Airdrop**
-On `TUE 15:00 GMT Feb 28th 2023` a snapshot will be taken of all DID's containing [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at) or [SyntHexizer](https://mintgarden.io/collections/synthexizers-col1xmqhvls8du6zxq7ccm7jpq4xx2ds8andnjr4gfgk35w2nj23hkaqlza2p6?tab=items) NFTs. One $DEGEN will then be airdropped per NFT.
 
-This snapshot will be taken using the [Proof of Related NFT Ownership DID Snapshot Tool](https://github.com/SynthwaveAndy/P.O.R.N.O-DID-Snapshot)
+#### **$DEGEN Airdrop** | ✅*Done*
+- A total of 194 $DEGEN was distributed via this Airdrop.
 
- #### **$DEGEN Bounty Program**
-After the Airdrop, buy offers for all [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at) NFTs will be uploaded to dexie.space. The offers will be 1 $DEGEN in return for each POSAT. Each POSAT traded in, will be burned.
+On `TUE 15:00 GMT Feb 28th 2023` a snapshot was taken of all DID's containing [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at), [SyntHexizer](https://mintgarden.io/collections/synthexizers-col1xmqhvls8du6zxq7ccm7jpq4xx2ds8andnjr4gfgk35w2nj23hkaqlza2p6?tab=items) or Proof of Synth Prize Collection NFTs. One $DEGEN was then be airdropped per NFT.
+This snapshot was taken using the [Proof of Related NFT Ownership DID Snapshot Tool](https://github.com/SynthwaveAndy/P.O.R.N.O-DID-Snapshot)
 
-#### Basic Info
-Asset ID: `320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501`
 
-- [TAIL Database](https://www.taildatabase.com/tail/320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501)
+ #### 🔥**The Great POSAT Burnoff**🔥
+ - A total of 83 $DEGEN has been distributed via these offer files so far
 
-- [SPACESCAN](https://www.spacescan.io/cat2/320b869bc8d293cca8784187312da1a61cf43b9cf0724b47d8e027dcca1dd501)
+Buy offers for all [Proof of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv?sort_by=-created_at) NFTs have been uploaded to dexie.space. Offering 1 $DEGEN in return for each POSAT. Each POSAT traded in, has been burned.
+
+[Check out the offers by clicking here!](https://dexie.space/offers/DEGEN/col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)
+
 
 ### NFT Price
 After the first 12 Hours, the Batches will be open for non-$DEGEN holders for `0.30 XCH standard price`
 
+This is already the case for the 1st Batch.
+
 
 ### Collaborations
-The Degens will feature traits from a range of collaborators, as well as community themes and memes! These traits will reference the collaborators work, but will be hand drawn by SynthwaveAndy .
+The Degens feature traits from a range of collaborators, as well as community themes and memes! These traits reference the collaborators work, are mostly hand drawn by SynthwaveAndy.
 
-I'm still reaching out to collaborators,
 The following collaborators are keen to have traits reference their project:
 - [Daryl](https://twitter.com/Smith_Cypher) (Who literally inspired this entire project!)
 - [ChiaSlimes](https://twitter.com/chia_slime)
@@ -89,25 +87,16 @@ The following collaborators are keen to have traits reference their project:
 - [ThiccTickers](https://twitter.com/ThiccTickers) (Church of Chia Prayer)
 - [Steve Stepp](https://twitter.com/steppsr)
 - [C00kies](https://twitter.com/acceptc00kies)
-
 - [Proof Of Synth and Time](https://mintgarden.io/collections/proof-of-synth-and-time-col1a3stfulcehl4d4fam0w73c0mde8ws4c7k5l85fd54r45gkfhp7hswuuysv)
 
->*Collaborators will have the final sign-off on the trait(s) referencing their work. They reserve the right to refuse a trait design or pull their support of the project prior to launch. Further, the collaborators twitter handle will be included in the metadata of the NFT where the reference to their project appears. Thank you for supporting ChiFi Degen's :)*
-
-If you'd like to have your project referenced because you feel it's signifgant within the community, please DM me on Twitter :)
-
-### When!?
-I will release a **Roadmap** soon with set key dates.
-The best place to check on the progress is at the top of this page in the [Progress](#Progress) section.
 
 ### Final Word
-Currently, if i wanted to, i could generate `1,857,945,600` **Unique** NFT's with the planned traits for **ChiFi Degen's**.
-**Proof of Synth and Time** has a lot of traits, which are essentially the same but with a different Hue (color)
+If i wanted to, i could have generated `2.7 Billion` **Unique** NFT's with the traits for **ChiFi Degen's**.
+
 **ChiFi Degen's** traits will almost all be completely unique, with the exception of some of the Eyes and Hair Colors, which will share Shape, with differing colors.
 
-All of this should indicate how diverse the collection will be, when scrolling a list and how much Time and Effort i'm putting into this.
+All of this should indicate how diverse the collection appears when scrolling a list and how much Time and Effort it took me to accomplish this Solo.
 
-I really feel that the Chia NFT space is missing a collection which really connects with the community.
-Chia Friend's is arguably the closest in terms of historical signifigance, but i feel it doesn't hit the mark on community culture representation. We all know what we are! A Bunch of ChiFi Degen's!
+I really felt that the Chia NFT space was missing a collection which really connects with the community. I feel they don't hit the mark on community culture representation. We all know what we are! A Bunch of ChiFi Degen's!
 
 Please feel free to ask me questions on Twitter or Discord (link in Twitter bio).
