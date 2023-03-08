@@ -11,7 +11,7 @@ Let's face it, we're all a bunch of ChiFi Degen's at heart,
 
 Some of us are `Devoted` Degens, who worship at the house of Gene.<br/>
 Maybe you're a `Stealth` Degen, and don't like showing off your Degen ways in public.<br/>
-Perhaps a `Well Endowed` Degen with your $BigD Necklace <br/>
+Perhaps a `Well Endowed` Degen with your confirmed Big DID<br/>
 Or just maybe, you're a `Brazen` Degen with your gold chains, yacht and golden grills!<br/>
 
 No matter what kind of Degen you are, there's a ChiFi Degen for you!
@@ -20,8 +20,8 @@ No matter what kind of Degen you are, there's a ChiFi Degen for you!
     <img src="./Readme Assets/RoadMap.png" style="width:100%;height:auto;"/>
 
 <p align="center" fontsize="4px">
-    <img style="padding-left:20px" src="https://progress-bar.dev/20?title=Mint"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/20?title=Offered"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/40?title=Mint"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/40?title=Offered"/>
     <br/>
     <font size="-2">(Updated Often) </br>Last Updated 6th March 2023</font>
 </p>
