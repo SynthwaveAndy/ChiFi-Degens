@@ -17,11 +17,11 @@ Or just maybe, you're a `Brazen` Degen with your gold chains, yacht and golden g
 No matter what kind of Degen you are, there's a ChiFi Degen for you!
 
 <div align="center">
-    <img src="./Readme Assets/RoadMap.png" style="width:100%;height:auto;"/>
+    <img src="./Readme Assets/DegenMap.png" style="width:100%;height:auto;"/>
 
 <p align="center" fontsize="4px">
-    <img style="padding-left:20px" src="https://progress-bar.dev/60?title=Mint"/>
-    <img style="padding-left:20px" src="https://progress-bar.dev/60?title=Offered"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/80?title=Mint"/>
+    <img style="padding-left:20px" src="https://progress-bar.dev/80?title=Offered"/>
     <br/>
     <font size="-2">(Updated Often) </br>Last Updated 12th March 2023</font>
 </p>
